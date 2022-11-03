@@ -1,1 +1,3 @@
 # BankistWebsite
+
+This project was designed as a presentation for the previous BankistApp. Over the course of it(many hours and some tears haha): -I studied more how the DOM, types of events,events handlers, event propagation(bubbling and capturing), Dom traversing, lifecycle DOM events and efficient script loading(regular vs async vs defer) works -practiced selecting and deleting elements -implemented smooth scrolling -implemented page navigation through event delegation -build a tabbed component -passed arguments to event handlers -implemented sticky navigation by working with the intersection observer API -revealed elements on scroll -used lazy loading images -build a slider component
