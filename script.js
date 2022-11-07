@@ -9,6 +9,7 @@ const section1 = document.querySelector('#section--1');
 const tabs = document.querySelectorAll('.operations__tab');
 const tabsContainer = document.querySelector('.operations__tab-container');
 const tabsContent = document.querySelectorAll('.operations__content');
+const logo = document.querySelector('.nav__logo');
 
 ///////////////////////////////////////
 // Modal window
