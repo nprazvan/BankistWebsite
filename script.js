@@ -320,6 +320,12 @@ const slider = function () {
   });
 };
 
+//Go to top of the page
+logo.addEventListener('click', function (e) {
+  // location.reload();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+
 slider();
 
 // HOW THE DOM REALLY WORKS
